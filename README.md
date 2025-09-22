@@ -22,6 +22,13 @@
 
 ---
 
+### 📈 Contributions  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imterra&bg_color=00000000&color=00BFFF&line=1E90FF&point=87CEFA&area=true&hide_border=true" />
+</p>
+
+---
+
 ### 🚀 Languages & Tools  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
@@ -35,13 +42,6 @@
 
 ---
 
-### 📈 Contributions  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imterra&bg_color=00000000&color=00BFFF&line=1E90FF&point=87CEFA&area=true&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Social  
 <p align="center">
   <a href="https://github.com/imterra">
@@ -50,6 +50,13 @@
   <a href="https://www.linkedin.com/in/lorrayneterra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+---
+
+### 🔎 Profile Visits  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imterra&style=for-the-badge&color=1E90FF" />
 </p>
 
 ---
