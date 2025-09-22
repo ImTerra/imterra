@@ -6,11 +6,23 @@
 
 ###
 
-<img align="left" height="209" src="https://i.pinimg.com/originals/d8/4a/18/d84a1863861e902b9e634bcb2e59e8fc.gif"  />
+<br clear="both">
+
+<h1 align="left"></h1>
 
 ###
 
-<p align="left">Prazer me chamo Lorrayne Terra, tenho 21 anos e sou apaixonada em tecnologia e criatividade! Gosto de filmes, músicas, conhecer pessoas e descobrir lugares novos, caso queiram conversar é só me chamar! <br><br>Estou no 4º semestre de engenharia da computação, o que está sendo fantástico! Com isso eu percebi que amo o que eu faço! <br><br>Atualmente sou assistente de marketing e dou suporte em inteligência de mercado em uma empresa, quero melhorar minhas habilidades e conhecimentos! Sejam muito bem-vindos ao meu perfil!</p>
+<img align="right" height="209" src="https://i.pinimg.com/originals/d8/4a/18/d84a1863861e902b9e634bcb2e59e8fc.gif"  />
+
+###
+
+<h6 align="left">Prazer me chamo Lorrayne Terra, tenho 21 anos e sou apaixonada em tecnologia e criatividade! Gosto de filmes, músicas, conhecer pessoas e descobrir lugares novos, caso queiram conversar é só me chamar! <br><br>Estou no 4º semestre de engenharia da computação, o que está sendo fantástico! Com isso eu percebi que amo o que eu faço! <br><br>Atualmente sou assistente de marketing e dou suporte em inteligência de mercado em uma empresa, quero melhorar minhas habilidades e conhecimentos! Sejam muito bem-vindos ao meu perfil!</h6>
+
+###
+
+<br clear="both">
+
+<h1 align="left"></h1>
 
 ###
 
@@ -22,10 +34,22 @@
 
 ###
 
+<br clear="both">
+
+<h1 align="left"></h1>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imTerra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="110" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imTerra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h1 align="left"></h1>
 
 ###
 
@@ -43,11 +67,23 @@
 
 ###
 
+<br clear="both">
+
+<h1 align="left"></h1>
+
+###
+
 <img align="right" height="193" src="https://i.pinimg.com/originals/33/31/2a/33312aafa411fe70eba1c5735e11dabe.gif"  />
 
 ###
 
 <img src="https://raw.githubusercontent.com/imTerra/imTerra/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<h1 align="left"></h1>
 
 ###
 
